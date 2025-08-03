@@ -1,6 +1,6 @@
 # DeepForum – Kuratiertes Diskussions- & News-Forum
 
-## 🧱 Projektstruktur (MVP-Basis, Projekt 2 aus Template)
+## 🧱 Projektstruktur (MVP-Basis)
 
 ```
 📁 deepforum/
